@@ -1,1 +1,3 @@
-# cmg
+## Client preparations
+
+com Jekyll
