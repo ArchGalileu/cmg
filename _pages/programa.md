@@ -14,7 +14,7 @@ image: temporada2018.png
 ## Camerata NovNorte
 ---
 
-**I.** *(Março - Abril)*  
+**I.**  
 
 ![Samuel Barber](https://media.npr.org/assets/music/specials/barber_100/barberbio-0c23dece6c64b7d2b020008d72aae58c0dcf5a8d-s300-c85.jpg){:width="100px"}
 ![Franz Schubert](https://upload.wikimedia.org/wikipedia/commons/f/fb/Franz_Schubert_by_Wilhelm_August_Rieder.jpeg){:width="100px"}
@@ -27,7 +27,7 @@ image: temporada2018.png
 
 ---
 
-**II.** *(Maio - Junho)*   
+**II.**  
 
 ![Rudolf Hoffstetter](https://lastfm-img2.akamaized.net/i/u/avatar300s/e53495a4ab8441a985ce98b87b934488.jpg){:width="100px"}
 ![W. A. Mozart](https://www.wien.info/media/images/mozart-gemaelde-von-barbara-krafft-3to2.jpeg){:width="100px"}
@@ -39,7 +39,7 @@ image: temporada2018.png
 
 ---
 
-**III.** *(Julho)*   
+**III.**    
 
 ![G. Lekeu](https://upload.wikimedia.org/wikipedia/commons/e/e6/Guillaume_Lekeu_ca._1886.jpg){:width="100px"}
 ![J. S. Bach](https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg){:width="100px"}
@@ -52,7 +52,7 @@ image: temporada2018.png
 
 ---
 
-**IV.** *(Setembro-Outubro)*   
+**IV.**    
 
 ![W. A. Mozart](https://www.wien.info/media/images/mozart-gemaelde-von-barbara-krafft-3to2.jpeg){:width="100px"}
 ![Gustav Mahler](https://upload.wikimedia.org/wikipedia/commons/0/06/Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg){:width="100px"}
@@ -64,7 +64,7 @@ image: temporada2018.png
 
 ---
 
-**V.** *(Novembro-Dezembro)*   
+**V.**    
 
 ![José Armando Fernandes](https://i.ytimg.com/vi/h72FRwZNYHo/hqdefault.jpg){:width="100px"}
 ![P. I. Tchaikovsky](https://www.biography.com/.image/t_share/MTE5NTU2MzE2Mzg0OTUzODY3/piotr-ilyich-tchaikovsky-9503375-1-402.jpg){:width="100px"}
@@ -84,7 +84,7 @@ image: temporada2018.png
 ---
 
 
-**I.** *(Março)*   
+**I.**    
 
 ![W. A. Mozart](https://www.wien.info/media/images/mozart-gemaelde-von-barbara-krafft-3to2.jpeg){:width="100px"}
 ![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
@@ -94,7 +94,7 @@ image: temporada2018.png
 
 ---
 
-**II.** *(Páscoa)*   
+**II.**    
 
 ![J. Haydn](https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg){:width="100px"}
 
@@ -102,7 +102,7 @@ image: temporada2018.png
 
 ---
 
-**III.** *(Maio - Junho)*   
+**III.**   
 
 ![J. Haydn](https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg){:width="100px"}
 ![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
@@ -112,7 +112,7 @@ image: temporada2018.png
 
 ---
 
-**IV.** *(Setembro-Outubro)*   
+**IV.**   
 
 ![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
 ![F. Schubert](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/220px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg){:width="100px"}
@@ -122,7 +122,7 @@ image: temporada2018.png
 
 ---
 
-**V.** *(Novembro-Dezembro)*   
+**V.**   
 
 ![F. Mendelssohn-Bartholdy](https://i.ytimg.com/vi/Vnh7gO95yIk/maxresdefault.jpg){:width="100px"}
 ![L. van Beethoven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/1200px-Beethoven.jpg){:width="100px"}
