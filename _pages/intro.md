@@ -27,5 +27,5 @@ No mesmo sentido, de desenvolver actividades musicais prestigiantes para a Câme
 
 Ficamos à espera duma resposta ou contraproposta.
 
-Com os melhores cumprimentos,
+Com os melhores cumprimentos,  
 Radu Ungureanu
