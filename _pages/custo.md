@@ -21,15 +21,15 @@ Regalar todos os cidadãos de Vila Nova de Gaia não é tarefa fácil, mas é po
 ## Quarteto Douro
 
 **1** Concerto    *2000€*   	                
->> *no caso de apenas 1 concerto é o valor acima,  um grupo de concertos fica por 1600€ cada*
+> *no caso de apenas 1 concerto é o valor acima,  um grupo de concertos fica por 1600€ cada*
 
 
 ## Camerata NovNorte
 ##### 20 músicos
 
 **1** Concerto     *3200€*   	                
-*no caso de apenas 1 concerto é o valor acima,  um grupo de concertos fica por 2800€ cada*
+>*no caso de apenas 1 concerto é o valor acima,  um grupo de concertos fica por 2800€ cada*
 
-> *Cada 1 destes músicos estudou pelo menos 8 anos de conservatório e 5 anos numa escola superior, contemplados com uma licenciatura ou mestrado;*
+>> *Cada 1 destes músicos estudou pelo menos 8 anos de conservatório e 5 anos numa escola superior, contemplados com uma licenciatura ou mestrado;*
 
 
