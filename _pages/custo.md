@@ -32,9 +32,8 @@ Regalar todos os cidadãos de Vila Nova de Gaia não é tarefa fácil, mas é po
 
 >> *Cada 1 destes músicos estudou pelo menos 8 anos de conservatório e 5 anos numa escola superior, contemplados com uma licenciatura ou mestrado;*
 
-Entidade jurídica:
-
-**Enredo de Sons, Associação**
+Entidade jurídica:  
+**Enredo de Sons, Associação**  
 NIF: 509 626 718
 
 
